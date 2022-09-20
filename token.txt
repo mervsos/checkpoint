@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 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
 
 Token Matias: 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
 
 
+=======
+Token Mervin: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
+
+Token Matias: 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
+
+Token Valentin: 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
+>>>>>>> 81982c09e493b7ae24a566e82588da5a308e9dbf
